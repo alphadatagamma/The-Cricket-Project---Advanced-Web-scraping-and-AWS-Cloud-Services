@@ -1,0 +1,115 @@
+Rank,Country,Country Name,Matches,Points,Ratings,Format
+1,AUS,Australia,26,"3,028",116,Test
+2,NZ,New Zealand,21,"2,406",115,Test
+3,IND,India,27,"3,085",114,Test
+4,ENG,England,33,"3,466",105,Test
+5,SL,Sri Lanka,27,"2,454",91,Test
+6,SA,South Africa,23,"2,076",90,Test
+7,PAK,Pakistan,16,"1,372",86,Test
+8,WI,West Indies,18,"1,422",79,Test
+9,BAN,Bangladesh,17,939,55,Test
+10,ZIM,Zimbabwe,8,144,18,Test
+1,ENG,England,38,"4,820",127,ODI
+2,IND,India,49,"5,819",119,ODI
+3,NZ,New Zealand,32,"3,716",116,ODI
+4,SA,South Africa,31,"3,345",108,ODI
+5,AUS,Australia,33,"3,518",107,ODI
+6,PAK,Pakistan,32,"3,254",102,ODI
+7,BAN,Bangladesh,34,"2,989",88,ODI
+8,SL,Sri Lanka,39,"3,297",85,ODI
+9,WI,West Indies,43,"3,285",76,ODI
+10,AFG,Afghanistan,28,"1,549",55,ODI
+11,IRE,Ireland,21,"1,039",49,ODI
+12,NED,Netherlands,5,222,44,ODI
+13,OMA,Oman,12,479,40,ODI
+14,ZIM,Zimbabwe,24,935,39,ODI
+15,SCO,Scotland,16,419,26,ODI
+16,NEP,Nepal,9,161,18,ODI
+17,UAE,UAE,15,259,17,ODI
+18,NAM,Namibia,9,152,17,ODI
+19,USA,United States,14,185,13,ODI
+20,PNG,Papua New Guinea,14,0,0,ODI
+1,AUS,Australia,19,"5,285",278,T20
+2,ENG,England,17,"4,564",268,T20
+3,IND,India,35,"9,319",266,T20
+4,PAK,Pakistan,21,"5,470",260,T20
+5,SA,South Africa,17,"4,380",258,T20
+6,NZ,New Zealand,23,"5,565",242,T20
+7,SL,Sri Lanka,23,"5,293",230,T20
+8,BAN,Bangladesh,20,"4,583",229,T20
+9,WI,West Indies,24,"5,499",229,T20
+10,AFG,Afghanistan,17,"3,882",228,T20
+11,ZIM,Zimbabwe,18,"3,442",191,T20
+12,IRE,Ireland,29,"5,513",190,T20
+13,UAE,UAE,23,"4,288",186,T20
+14,SCO,Scotland,17,"3,096",182,T20
+15,NEP,Nepal,23,"4,148",180,T20
+16,PNG,Papua New Guinea,21,"3,769",179,T20
+17,NED,Netherlands,26,"4,618",178,T20
+18,OMA,Oman,18,"3,169",176,T20
+19,NAM,Namibia,19,"2,980",157,T20
+20,SIN,Singapore,20,"2,835",142,T20
+21,CAN,Canada,15,"1,956",130,T20
+22,QAT,Qatar,23,"2,982",130,T20
+23,HK,Hong Kong,23,"2,727",119,T20
+24,KEN,Kenya,12,"1,389",116,T20
+25,JSY,Jersey,21,"2,423",115,T20
+26,KUW,Kuwait,16,"1,765",110,T20
+27,ITA,Italy,10,"1,100",110,T20
+28,SDA,Saudi Arabia,9,965,107,T20
+29,DEN,Denmark,10,975,98,T20
+30,BRM,Bermuda,13,"1,202",92,T20
+31,UGA,Uganda,11,985,90,T20
+32,MAS,Malaysia,29,"2,557",88,T20
+33,GER,Germany,15,"1,304",87,T20
+34,USA,United States,11,868,79,T20
+35,GHA,Ghana,10,773,77,T20
+36,BOT,Botswana,13,934,72,T20
+37,GSY,Guernsey,12,854,71,T20
+38,AUT,Austria,8,553,69,T20
+39,NGR,Nigeria,16,"1,064",67,T20
+40,ROM,Romania,6,399,67,T20
+41,NOR,Norway,8,499,62,T20
+42,ESP,Spain,13,766,59,T20
+43,SWE,Sweden,3,168,56,T20
+44,TAN,Tanzania,3,167,56,T20
+45,CAY,Cayman Islands,8,430,54,T20
+46,ARG,Argentina,12,610,51,T20
+47,PHI,Philippines,5,241,48,T20
+48,BRN,Bahrain,9,424,47,T20
+49,VAN,Vanuatu,15,704,47,T20
+50,BIZ,Belize,5,209,42,T20
+51,BUL,Bulgaria,5,203,41,T20
+52,HUN,Hungary,4,162,41,T20
+53,MAW,Malawi,12,476,40,T20
+54,CZE,Czech Republic,12,430,36,T20
+55,FIJ,Fiji,3,105,35,T20
+56,PER,Peru,9,294,33,T20
+57,PAN,Panama,5,162,32,T20
+58,LUX,Luxembourg,8,258,32,T20
+59,CRC,Costa Rica,4,126,32,T20
+60,JPN,Japan,4,126,32,T20
+61,SAM,Samoa,7,216,31,T20
+62,MEX,Mexico,11,320,29,T20
+63,BEL,Belgium,6,170,28,T20
+64,POR,Portugal,7,173,25,T20
+65,FIN,Finland,9,204,23,T20
+66,THA,Thailand,14,297,21,T20
+67,SK,South Korea,4,78,20,T20
+68,MOZ,Mozambique,12,173,14,T20
+69,BRA,Brazil,9,123,14,T20
+70,BHU,Bhutan,7,88,13,T20
+71,SRL,Sierra Leone,5,61,12,T20
+72,MDV,Maldives,14,138,10,T20
+73,CHI,Chile,9,85,9,T20
+74,STH,Saint Helena,6,55,9,T20
+75,INA,Indonesia,4,19,5,T20
+76,MYA,Myanmar,6,23,4,T20
+77,LES,Lesotho,3,0,0,T20
+78,RWA,Rwanda,3,0,0,T20
+79,SWZ,Eswatini,3,0,0,T20
+80,TUR,Turkey,5,0,0,T20
+81,CHN,China,6,0,0,T20
+82,GAM,Gambia,6,0,0,T20
+83,GIB,Gibraltar,7,0,0,T20
+84,MLT,Malta,8,0,0,T20
