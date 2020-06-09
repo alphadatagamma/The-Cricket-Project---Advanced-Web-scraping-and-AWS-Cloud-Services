@@ -1,4 +1,16 @@
-# The-Cricket-Project---Webscraping
+# The Cricket project
+Cricket is a religion in India and I am a big fan of the sport. A game with more than a Billion fans worldwide and a global industry worth more than 100s of Billions of dollars.
+
+This love for the game and the determination to apply some my Data Science skills has led to the inception of this project.
+
+Phase 1: Web scraping data from various sources like ICC.com ESPN Cricinfo, CricBuzz.com (Python, Beautiful Soup, RegEx, and AWS EC2)
+
+Phase 2: Data Processing and Cleaning and storing as comma separated in AWS S3
+
+Phase 3: Setting up ETL jobs to create Relational database using AWS Glue and AWS Redshift
+
+
+### 1.  The-Cricket-Project---Webscraping
 Webscraping scripts for The Cricket Project
 
 ## The following data sources are webscraped
