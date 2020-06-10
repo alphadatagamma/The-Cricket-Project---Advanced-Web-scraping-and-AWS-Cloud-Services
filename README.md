@@ -13,7 +13,7 @@ This love for the game and the determination to apply some my Data Science skill
 ### Phase 1.  Webscraping
 Webscraping scripts for The Cricket Project
 
-## The following data sources are webscraped
+#### The following data sources are webscraped
 
 1. https://www.icc-cricket.com/ - Mens cricket Test, ODI and T-20 Team rankings
 2. https://www.icc-cricket.com/ - Mens cricket Test, ODI and T-20 Player rankings
