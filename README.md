@@ -3,11 +3,11 @@ Cricket is a religion in India and I am a big fan of the sport. A game with more
 
 This love for the game and the determination to apply some my Data Science skills has led to the inception of this project.
 
-Phase 1: Web scraping data from various sources like ICC.com ESPN Cricinfo, CricBuzz.com (Python, Beautiful Soup, RegEx, and AWS EC2)
+<b>Phase 1</b>: Web scraping data from various sources like ICC.com ESPN Cricinfo, CricBuzz.com (Python, Beautiful Soup, RegEx, and AWS EC2)
 
-Phase 2: Data Processing and Cleaning and storing as comma separated in AWS S3
+<b>Phase 2</b>: Data Processing and Cleaning and storing as comma separated in AWS S3
 
-Phase 3: Setting up ETL jobs to create Relational database using AWS Glue and AWS Redshift
+<b>Phase 3</b>: Setting up ETL jobs to create Relational database using AWS Glue and AWS Redshift
 
 
 ### 1.  The-Cricket-Project---Webscraping
