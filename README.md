@@ -10,7 +10,7 @@ This love for the game and the determination to apply some my Data Science skill
 <b>Phase 3</b>: Setting up ETL jobs to create Relational database using AWS Glue and AWS Redshift
 
 
-### 1.  The-Cricket-Project---Webscraping
+### Phase 1.  Webscraping
 Webscraping scripts for The Cricket Project
 
 ## The following data sources are webscraped
