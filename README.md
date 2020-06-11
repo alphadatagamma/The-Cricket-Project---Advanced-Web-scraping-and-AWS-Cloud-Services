@@ -22,12 +22,9 @@ Webscraping scripts for The Cricket Project
 
 - <b>AWS EC2, AWS- Sagemaker, Google Colab, Data Bricks</b> and noted the time for scraping 100 records. We will go with whatever wins. Also, will try to implement parallel processing to reduce runtime. - Multipurpose in python doen't seem to work
 
-* My local system with 16 Gigs of RAM, scraps 50 records in 36 seconds
-* Google colab with CPU runs it in 58 seconds
-* Google colab with GPU runs it in 24 seconds
-* Google colab with TPU runs it in 37 seconds, although we did achieve a significant reducction in runtime with GPU, but I was hoping for a 10X decrease. 
+* AWS sagemaker is the winner with 50 records in 20 seconds
 
-5. https://www.espncricinfo.com/
+5. https://www.espncricinfo.com/ - Player stats - bowling and batting and fielding
 
 
 
